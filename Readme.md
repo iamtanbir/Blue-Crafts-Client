@@ -19,7 +19,6 @@ You can try the project live here: [https://blue-craft-auth.firebaseapp.com/](ht
 - Firebase Authentication
 - Express JS
 - MongoDB
-- JSON Web Token
 
 ## Running Locally
 1. Clone the server-side project repository:
